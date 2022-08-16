@@ -159,7 +159,7 @@ li.nav-item:hover {
 #education th {
   padding-top: 12px;
   padding-bottom: 12px;
-  text-align: left;
+  text-align: center;
   background-color: #04aa6d;
   color: rgb(34, 40, 49);
 }
@@ -341,4 +341,10 @@ li.nav-item:hover {
 }
 h1.head_ {
   font-size: 70px;
+}
+
+footer.class_foot {
+  text-align: center;
+  color: white;
+  background-color: #212529;
 }

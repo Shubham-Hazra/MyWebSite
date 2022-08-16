@@ -74,6 +74,12 @@
     {
         var my_checkbox = document.getElementById("checkbox");
         my_checkbox.style.display="none";
+        var bod = document.getElementById("hobbies_body");
+        bod.style.backgroundColor="#212529";
+        bod.style.backgroundImage = "none";
+        var foot = document.getElementById("hobbies_footer");
+        foot.className="class_foot";
+
     }
     else
     {
